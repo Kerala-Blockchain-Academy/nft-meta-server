@@ -1,0 +1,130 @@
+[
+    {
+        "description": "The Platinum Eternal Enigma block conceals a mysterious Vortex core, swirling with untold secrets.",
+        "external_url": "https://ananthanir.github.io",
+        "image": "https://gateway.pinata.cloud/ipfs/QmeWx9T3NWorEYPhMjJxDJtY5hfwNwgBS2QWapW7BL91ws",
+        "name": "Enigmatic Vortex",
+        "attributes": [
+            {
+                "trait_type": "Eternal Enigma",
+                "value": "Platinum"
+            },
+            {
+                "trait_type": "Hidden Core",
+                "value": "Vortex"
+            }
+        ]
+    },
+    {
+        "description": "Astral Dimensional Door block opens gateways to uncharted realms, inscribed with an Ancient glyph language.",
+        "external_url": "https://ananthanir.github.io",
+        "image": "https://gateway.pinata.cloud/ipfs/QmNZnZKUhx1bjrBjCLasV17UWkCt5AoVBDEMQJDHVnJ9YR",
+        "name": "Astral Gateway",
+        "attributes": [
+            {
+                "trait_type": "Dimensional Door",
+                "value": "Astral"
+            },
+            {
+                "trait_type": "Glyph Language",
+                "value": "Ancient"
+            }
+        ]
+    },
+    {
+        "description": "The Temporal Phase Shifting block bends time itself, emitting a Chakra Alignment harmonic resonance.",
+        "external_url": "https://ananthanir.github.io",
+        "image": "https://gateway.pinata.cloud/ipfs/Qmer2yVabhENeZTpeZe4CHnQyp1dXP8g12WEi2J4YFxq2d",
+        "name": "Time Bender",
+        "attributes": [
+            {
+                "trait_type": "Phase Shifting",
+                "value": "Temporal"
+            },
+            {
+                "trait_type": "Harmonic Resonance",
+                "value": "Chakra Alignment"
+            }
+        ]
+    },
+    {
+        "description": "Cryptic Vision block emanates a mesmerizing Kaleidoscope of colors, infused with enigmatic Aether.",
+        "external_url": "https://ananthanir.github.io",
+        "image": "https://gateway.pinata.cloud/ipfs/QmX8FtuaR219nnZHuwexJMmFRwdR38MuLxD66p27JTWKv9",
+        "name": "Kaleidoscopic Aether",
+        "attributes": [
+            {
+                "trait_type": "Cryptic Vision",
+                "value": "Kaleidoscope"
+            },
+            {
+                "trait_type": "Elemental Infusion",
+                "value": "Aether"
+            }
+        ]
+    },
+    {
+        "description": "Esoteric Pattern block features a complex Fractal design, forming a powerful Mind Link telepathic bond.",
+        "external_url": "https://ananthanir.github.io",
+        "image": "https://gateway.pinata.cloud/ipfs/QmTiRJELDRzj47ReoSBfiRuY6VTCaYUhYe2vXPXXiv2To2",
+        "name": "Fractal Mind Link",
+        "attributes": [
+            {
+                "trait_type": "Esoteric Pattern",
+                "value": "Fractal"
+            },
+            {
+                "trait_type": "Telepathic Bond",
+                "value": "Mind Link"
+            }
+        ]
+    },
+    {
+        "description": "Gravity Defiance block levitates in defiance of natural laws, serving as a Galactic Gateway to the cosmos.",
+        "external_url": "https://ananthanir.github.io",
+        "image": "https://gateway.pinata.cloud/ipfs/QmYax5M44obqz37b7sgHCgoLmei5g83obU91dPRLdUaUNC",
+        "name": "Levitating Cosmos",
+        "attributes": [
+            {
+                "trait_type": "Gravity Defiance",
+                "value": "Levitation"
+            },
+            {
+                "trait_type": "Cosmic Alignment",
+                "value": "Galactic Gateway"
+            }
+        ]
+    },
+    {
+        "description": "Quantum Shift block, made of Morphing Matter, emits a dazzling Aurora Radiance of energy.",
+        "external_url": "https://ananthanir.github.io",
+        "image": "https://gateway.pinata.cloud/ipfs/QmRa3UZEAsu2uWCmAhwwjjGh4P5cvQzPYHH6Zy76YHmSGv",
+        "name": "Quantum Radiance",
+        "attributes": [
+            {
+                "trait_type": "Morphing Matter",
+                "value": "Quantum Shift"
+            },
+            {
+                "trait_type": "Energy Emission",
+                "value": "Aurora Radiance"
+            }
+        ]
+    },
+    {
+        "description": "Ephemeral Whispering Shadows envelop the Lost Path block, guiding you through the Eternal Labyrinth.",
+        "external_url": "https://ananthanir.github.io",
+        "image": "https://gateway.pinata.cloud/ipfs/QmSVh1g7NZsE2kD8qMkp3gm5S6ijQSYA33r3fMvsLtCe2K",
+        "name": "Shadowed Labyrinth",
+        "attributes": [
+            {
+                "trait_type": "Whispering Shadows",
+                "value": "Ephemeral"
+            },
+            {
+                "trait_type": "Eternal Labyrinth",
+                "value": "Lost Path"
+            }
+        ]
+    }
+]

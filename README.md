@@ -1,1 +1,1 @@
-# nft-meta-server
+# meta-data
