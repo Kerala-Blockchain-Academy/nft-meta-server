@@ -1,130 +1,162 @@
 [
     {
-        "description": "The Platinum Eternal Enigma block conceals a mysterious Vortex core, swirling with untold secrets.",
+        "description": "The Silver Nimbus conceals an enigmatic Whisper, echoing tales from another realm.",
         "external_url": "https://ananthanir.github.io",
-        "image": "https://gateway.pinata.cloud/ipfs/QmeWx9T3NWorEYPhMjJxDJtY5hfwNwgBS2QWapW7BL91ws",
-        "name": "Enigmatic Vortex",
+        "image": "https://gateway.pinata.cloud/ipfs/QmW2HT5GDCWw5jLBSB5rzxCqL55Usnwi7JkxxyjWpvgnMh",
+        "name": "Whispering Nimbus",
         "attributes": [
             {
-                "trait_type": "Eternal Enigma",
-                "value": "Platinum"
+                "trait_type": "Cloud Essence",
+                "value": "Silver Nimbus"
             },
             {
-                "trait_type": "Hidden Core",
-                "value": "Vortex"
+                "trait_type": "Hidden Whisper",
+                "value": "Ethereal Echo"
             }
         ]
     },
     {
-        "description": "Astral Dimensional Door block opens gateways to uncharted realms, inscribed with an Ancient glyph language.",
+        "description": "The Golden Cirrus holds a cryptic Mirage, reflecting visions from forgotten worlds.",
         "external_url": "https://ananthanir.github.io",
-        "image": "https://gateway.pinata.cloud/ipfs/QmNZnZKUhx1bjrBjCLasV17UWkCt5AoVBDEMQJDHVnJ9YR",
-        "name": "Astral Gateway",
+        "image": "https://gateway.pinata.cloud/ipfs/QmVmCAPV9ysfVfPwV3FfDdEfecsizU4puZZbsQnez1BEKE",
+        "name": "Mirage Cirrus",
         "attributes": [
             {
-                "trait_type": "Dimensional Door",
-                "value": "Astral"
+                "trait_type": "Cloud Essence",
+                "value": "Golden Cirrus"
             },
             {
-                "trait_type": "Glyph Language",
-                "value": "Ancient"
+                "trait_type": "Hidden Mirage",
+                "value": "Lost Vision"
             }
         ]
     },
     {
-        "description": "The Temporal Phase Shifting block bends time itself, emitting a Chakra Alignment harmonic resonance.",
+        "description": "The Azure Cumulus enfolds a mysterious Shadow, casting tales of ancient times.",
         "external_url": "https://ananthanir.github.io",
-        "image": "https://gateway.pinata.cloud/ipfs/Qmer2yVabhENeZTpeZe4CHnQyp1dXP8g12WEi2J4YFxq2d",
-        "name": "Time Bender",
+        "image": "https://gateway.pinata.cloud/ipfs/QmczWhfhRqJjxCfoREFRqLYDHc9EJmYhkb8nNYGYoveXbQ",
+        "name": "Shadowed Cumulus",
         "attributes": [
             {
-                "trait_type": "Phase Shifting",
-                "value": "Temporal"
+                "trait_type": "Cloud Essence",
+                "value": "Azure Cumulus"
             },
             {
-                "trait_type": "Harmonic Resonance",
-                "value": "Chakra Alignment"
+                "trait_type": "Hidden Shadow",
+                "value": "Ancient Tale"
             }
         ]
     },
     {
-        "description": "Cryptic Vision block emanates a mesmerizing Kaleidoscope of colors, infused with enigmatic Aether.",
+        "description": "The Crimson Stratus veils a secret Luminescence, glowing with stories of the cosmos.",
         "external_url": "https://ananthanir.github.io",
-        "image": "https://gateway.pinata.cloud/ipfs/QmX8FtuaR219nnZHuwexJMmFRwdR38MuLxD66p27JTWKv9",
-        "name": "Kaleidoscopic Aether",
+        "image": "https://gateway.pinata.cloud/ipfs/Qmc2Jm3sXNWHX72Azzywep4m8kFj7QmyehiQZiBjYtu4UA",
+        "name": "Luminous Stratus",
         "attributes": [
             {
-                "trait_type": "Cryptic Vision",
-                "value": "Kaleidoscope"
+                "trait_type": "Cloud Essence",
+                "value": "Crimson Stratus"
             },
             {
-                "trait_type": "Elemental Infusion",
-                "value": "Aether"
+                "trait_type": "Hidden Luminescence",
+                "value": "Cosmic Glow"
             }
         ]
     },
     {
-        "description": "Esoteric Pattern block features a complex Fractal design, forming a powerful Mind Link telepathic bond.",
+        "description": "The Emerald Altostratus hides a puzzling Echo, resonating with voices of the abyss.",
         "external_url": "https://ananthanir.github.io",
-        "image": "https://gateway.pinata.cloud/ipfs/QmTiRJELDRzj47ReoSBfiRuY6VTCaYUhYe2vXPXXiv2To2",
-        "name": "Fractal Mind Link",
+        "image": "https://gateway.pinata.cloud/ipfs/QmXBtYRGjcXSpM1Bgxv6dofUZKj1FNVoNsJChR3TzLGnEC",
+        "name": "Echoing Altostratus",
         "attributes": [
             {
-                "trait_type": "Esoteric Pattern",
-                "value": "Fractal"
+                "trait_type": "Cloud Essence",
+                "value": "Emerald Altostratus"
             },
             {
-                "trait_type": "Telepathic Bond",
-                "value": "Mind Link"
+                "trait_type": "Hidden Echo",
+                "value": "Abyssal Voice"
             }
         ]
     },
     {
-        "description": "Gravity Defiance block levitates in defiance of natural laws, serving as a Galactic Gateway to the cosmos.",
+        "description": "The Twilight Cumulonimbus shrouds a riddle in its Thunder, rumbling with legends of old.",
         "external_url": "https://ananthanir.github.io",
-        "image": "https://gateway.pinata.cloud/ipfs/QmYax5M44obqz37b7sgHCgoLmei5g83obU91dPRLdUaUNC",
-        "name": "Levitating Cosmos",
+        "image": "https://gateway.pinata.cloud/ipfs/QmQmze3d2Uie7wfLbhVrYSGj9RGiGkGFjENLwbkFqvQTXW",
+        "name": "Thundering Enigma",
         "attributes": [
             {
-                "trait_type": "Gravity Defiance",
-                "value": "Levitation"
+                "trait_type": "Cloud Essence",
+                "value": "Twilight Cumulonimbus"
             },
             {
-                "trait_type": "Cosmic Alignment",
-                "value": "Galactic Gateway"
+                "trait_type": "Hidden Thunder",
+                "value": "Ancient Legend"
             }
         ]
     },
     {
-        "description": "Quantum Shift block, made of Morphing Matter, emits a dazzling Aurora Radiance of energy.",
+        "description": "The Dawn Stratocumulus enfolds a clandestine Dream, weaving tales of ethereal realms.",
         "external_url": "https://ananthanir.github.io",
-        "image": "https://gateway.pinata.cloud/ipfs/QmRa3UZEAsu2uWCmAhwwjjGh4P5cvQzPYHH6Zy76YHmSGv",
-        "name": "Quantum Radiance",
+        "image": "https://gateway.pinata.cloud/ipfs/QmSJHUgW6pbs93dBuQZbfz3Xyr37gJHxqgCtB5hAdQvDAo",
+        "name": "Dreamy Stratocumulus",
         "attributes": [
             {
-                "trait_type": "Morphing Matter",
-                "value": "Quantum Shift"
+                "trait_type": "Cloud Essence",
+                "value": "Dawn Stratocumulus"
             },
             {
-                "trait_type": "Energy Emission",
-                "value": "Aurora Radiance"
+                "trait_type": "Hidden Dream",
+                "value": "Ethereal Tale"
             }
         ]
     },
     {
-        "description": "Ephemeral Whispering Shadows envelop the Lost Path block, guiding you through the Eternal Labyrinth.",
+        "description": "The Midnight Cirrostratus conceals a cryptic Pulse, beating with the heart of the universe.",
         "external_url": "https://ananthanir.github.io",
-        "image": "https://gateway.pinata.cloud/ipfs/QmSVh1g7NZsE2kD8qMkp3gm5S6ijQSYA33r3fMvsLtCe2K",
-        "name": "Shadowed Labyrinth",
+        "image": "https://gateway.pinata.cloud/ipfs/QmZeY2v8VosMYGPgCffPy2Bk2CtQnuqKhwBgHwbi365yR5",
+        "name": "Pulsating Cirrostratus",
         "attributes": [
             {
-                "trait_type": "Whispering Shadows",
-                "value": "Ephemeral"
+                "trait_type": "Cloud Essence",
+                "value": "Midnight Cirrostratus"
             },
             {
-                "trait_type": "Eternal Labyrinth",
-                "value": "Lost Path"
+                "trait_type": "Hidden Pulse",
+                "value": "Universal Heartbeat"
             }
         ]
-    }
+    },
+    {
+        "description": "The Dusk Nimbostratus veils an arcane Flame, flickering with memories of the primordial.",
+        "external_url": "https://ananthanir.github.io",
+        "image": "https://gateway.pinata.cloud/ipfs/QmfZuncd7eXvUvbkbQFShMSNiWqFcf3GdfUdZKPWeitXVa",
+        "name": "Flaming Nimbostratus",
+        "attributes": [
+            {
+                "trait_type": "Cloud Essence",
+                "value": "Dusk Nimbostratus"
+            },
+            {
+                "trait_type": "Hidden Flame",
+                "value": "Primordial Memory"
+            }
+        ]
+    },
+    {
+        "description": "The Celestial Contrail hides a mystic Breeze, whispering secrets of the winds.",
+        "external_url": "https://ananthanir.github.io",
+        "image": "https://gateway.pinata.cloud/ipfs/QmeREzrVv7C3e8QNYuqxPqN9XzTfzqMzBAFi7bMrB3aLce",
+        "name": "Breezy Contrail",
+        "attributes": [
+            {
+                "trait_type": "Cloud Essence",
+                "value": "Celestial Contrail"
+            },
+            {
+                "trait_type": "Hidden Breeze",
+                "value": "Wind's Secret"
+            }
+        ]
+    }                                        
 ]
